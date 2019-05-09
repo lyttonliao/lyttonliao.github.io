@@ -202,8 +202,7 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 
 .text { color: black; font-size: 100%; font-weight: bold; width: 350px; }
 .text-top { font-size: 150%; }
-.text-top .title { font-size: 100%; }
-.text-top .title:hover { color: #415BB5; }
+.text-top .title { font-size: 100%; color: #415BB5; }
 .text-top .live:hover { color: #415BB5; }
 .text-top .repo:hover { color: #415BB5; }
 .text-bottom { font-size: 80%; margin-top: 5%; }
