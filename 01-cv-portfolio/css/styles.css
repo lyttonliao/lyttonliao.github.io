@@ -177,16 +177,16 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 
 .portfolio-section .p-item.p-item-2 .img:last-child{ float: right; width: 50%; padding-left: 7.5px; }
 
-.portfolio-section .p-item .image {
-	display: block;
+/* .portfolio-section .p-item .img {
+	display: block; */
 	/* transition: .5s ease; */
 	/* backface-visibility: hidden; */
-	opacity: 1;
-}
+	/* opacity: 1;
+} */
 
 .portfolio-section .middle {
 	visibility: hidden;
-	/* transition: .5s ease-in-out; */
+	/* transition: .5s; */
 	position: absolute;
 	top: 50%;
 	left: 50%;
@@ -196,7 +196,8 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 	opacity: 1;
 }
 
-.p-item:hover img { opacity: .4; }
+.p-item img { transition: .5s ease; }
+.p-item:hover img { transition: .5s ease; opacity: .4; }
 .portfolio-section .p-item:hover .middle{ opacity: 1; visibility: visible; }
 
 .text { color: black; font-size: 100%; font-weight: bold; width: 350px; }
