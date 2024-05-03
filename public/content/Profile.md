@@ -1,19 +1,19 @@
 ## Site Name
-- Portable Portfolio
+- Lytton's Portfolio
 
 ## Header
-- Hi, my name is Eldora. 
-- I'm a software engineer.
-- Short Description Here.
+- Hi, my name is Lytton. 
+- Software Engineer.
+- A student of knowledge.
 
 ## About
-Write your "About" section here.
+Two years of experience as a frontend developer with experience in the advertisment and finance industry. I recently worked as an Application Architect at Bank of America where I refined my skills in JavaScript, TypeScript, React, Redux, Python, HTML, and CSS. I graduated Binghamton University with a B.A. in Mathematics and worked two years as an actuarial analyst before transitioning to software development. I love the boundless innovation and possibilities, the joy of learning fascinating technologies, and the excitement of the everchanging landscape of software development. All things that keep me eager for my next adventure.
 
 ## Contact
-Write your "Contact" section here.
-- LinkedIn: https://linkedin.com/in/username
-- GitHub: https://github.com/username
-- Email: username@gmail.com
+Would love the opportunity for a conversation!
+- LinkedIn: https://linkedin.com/in/lytton-liao
+- GitHub: https://github.com/lyttonliao
+- Email: lytton.liao@gmail.com
 
 ## Logo
-- EB
+- LL
