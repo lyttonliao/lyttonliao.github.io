@@ -12,7 +12,8 @@ Develop a stock web application that backtests trading strategies by scanning hi
   - Docker [cyan]
   - PostgreSQL [cyan]
 - Buttons:
-  - Link [https://github.com/lyttonliao/StratCheck]
+  - StratCheck Repo [https://github.com/lyttonliao/StratCheck]
+  - BacktraderAPI Repo [https://github.com/lyttonliao/BacktraderAPI]
 
 ## Sentinels Watch Group
 Developed a heuristic web application that allows users access to advanced stock analytical tools with scalable and resilient architecture by using terraform to provision AWS resources and deploying docker containers to EC2 instances. Integrated TradingView’s API to create custom data visualization and tactics to identify entry and exit points.
@@ -29,4 +30,4 @@ Developed a heuristic web application that allows users access to advanced stock
   - AWS [cyan]
   - PostgreSQL [cyan]
 - Buttons:
-  - Link [https://gitlab.com/lyttonliao/sentinels-api-devops/-/tree/main]
+  - Repo [https://gitlab.com/lyttonliao/sentinels-api-devops/-/tree/main]
